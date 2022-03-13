@@ -1,4 +1,4 @@
-# hackeranks
+# HACKERANK
 what ive learnt in hackerank
 
 ```python
